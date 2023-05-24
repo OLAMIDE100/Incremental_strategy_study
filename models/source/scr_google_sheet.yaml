@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: google_sheets
+    database: airflow-382917
+    dataset: test
+
+
+    tables:
+      - name: test
